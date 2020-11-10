@@ -1,0 +1,11 @@
+﻿2020-11-10 17:26:51, Info                  MIG    MigHost started with command line: {65F489D8-2B90-4102-ACA6-EC43C29D7734} /InitDoneEvent:MigHost.{65F489D8-2B90-4102-ACA6-EC43C29D7734}.Event /ParentPID:8484
+2020-11-10 17:26:51, Info                  MIG    MigHost: CMigPluginSurrogate::Init: Successfully initialized surrogate.
+2020-11-10 17:26:51, Info                  MIG    MigHost: Initialized successfully with CLSID[{65F489D8-2B90-4102-ACA6-EC43C29D7734}] and LogDir=[]
+2020-11-10 17:26:51, Info                  MIG    MigHost: CMigPluginSurrogate::LoadDllServer in progress: BinaryPath=[C:\$WINDOWS.~BT\Sources\ReplacementManifests\Microsoft-Windows-RasServer-MigPlugin\RasMigPlugin.dll], CLSID=[{D26AA4A5-92AD-48DB-8D59-95EF0DCE6939}], ApartmentThreadingModel=[0].
+2020-11-10 17:26:51, Info                  MIG    MigHost: CMigPluginSurrogate::COMGenericThreadingHostThreadProc: ThreadID=[0x2a38], Server=[C:\$WINDOWS.~BT\Sources\ReplacementManifests\Microsoft-Windows-RasServer-MigPlugin\RasMigPlugin.dll], CLSID=[{D26AA4A5-92AD-48DB-8D59-95EF0DCE6939}], ApartmentThreadingModel=[0]
+2020-11-10 17:26:51, Info                  MIG    MigHost: CMigPluginSurrogate::LoadAndRegisterServerInThreadContext: Loaded server(C:\$WINDOWS.~BT\Sources\ReplacementManifests\Microsoft-Windows-RasServer-MigPlugin\RasMigPlugin.dll)
+2020-11-10 17:26:52, Info                  MIG    MigHost: CMigPluginSurrogate::LoadAndRegisterServerInThreadContext: Successfully loaded and registered server(C:\$WINDOWS.~BT\Sources\ReplacementManifests\Microsoft-Windows-RasServer-MigPlugin\RasMigPlugin.dll)
+2020-11-10 17:26:52, Info                  MIG    MigHost: CMigPluginSurrogate::COMGenericThreadingHostThreadProc: LoadAndRegisterServerInThreadContext() succeeded.
+2020-11-10 17:26:52, Info                  MIG    MigHost: CMigPluginSurrogate::LoadDllServer finished: Result=[0x0].
+2020-11-10 17:26:52, Info                  MIG    MigHost: CMigPluginSurrogate::COMGenericThreadingHostThreadProc: Exiting ThreadID=[0x2a38].
+2020-11-10 17:26:52, Info                  MIG    MigHost: Exiting process.
